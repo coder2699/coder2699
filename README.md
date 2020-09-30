@@ -5,8 +5,8 @@
   
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <hr/>
-<h5>
-Android Development | Web Development  | Competitive Programming</h5>
+<h3>
+Android Development | Web Development  | Competitive Programming</h3>
 
 ## About 👨‍💻
 I am a 2nd year ECE student from Dayananda Sagar College of Engineering, Bengaluru.
