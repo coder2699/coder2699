@@ -9,16 +9,19 @@
 Android Development | Web Development  | Competitive Programming</h3>
 
 ## About 👨‍💻
+
+<a></a>
+<a href="http://linkedin.com/in/pranshu-pandey-ab4543198">
+  <img align="center" src="https://user-images.githubusercontent.com/61552810/94657167-ac53b000-031e-11eb-8f71-d34756928a0c.png" width="35px" height="35px"/><p></p><a href="mailto:pranshu0414@gmail.com">
+  <img align="center" src="https://user-images.githubusercontent.com/61552810/94657190-b37abe00-031e-11eb-869c-48d933ca954a.png" width="35px" height="35px"/>
+  </a>  <p></p>
+  
 I am a 2nd year ECE student from Dayananda Sagar College of Engineering, Bengaluru.
 
 I am interested in Android, Web and Software development. I have worked in both frontend and backend development. Other than that I also have a knack for competitive programming and algorithms.
 
 I am always looking to be a better version of myself and I strongly believe that small changes and small steps can create massive impact.
 
-<a></a><a href="http://linkedin.com/in/pranshu-pandey-ab4543198">
-  <img align="center" src="https://user-images.githubusercontent.com/61552810/94657167-ac53b000-031e-11eb-8f71-d34756928a0c.png" width="35px" height="35px"/><p></p><a href="mailto:pranshu0414@gmail.com">
-  <img align="center" src="https://user-images.githubusercontent.com/61552810/94657190-b37abe00-031e-11eb-869c-48d933ca954a.png" width="35px" height="35px"/>
-</a>
 
 ## Languages
 <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" height=25> 
