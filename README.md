@@ -5,8 +5,6 @@
   
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <hr/>
-<h3>
-Android Development | Web Development  | Competitive Programming</h3>
 
 ## About 👨‍💻
 
@@ -15,6 +13,10 @@ Android Development | Web Development  | Competitive Programming</h3>
   <img align="center" src="https://user-images.githubusercontent.com/61552810/94657167-ac53b000-031e-11eb-8f71-d34756928a0c.png" width="35px" height="35px"/><p></p><a href="mailto:pranshu0414@gmail.com">
   <img align="center" src="https://user-images.githubusercontent.com/61552810/94657190-b37abe00-031e-11eb-869c-48d933ca954a.png" width="35px" height="35px"/>
   </a>  <p></p>
+  
+  
+<h4>
+Android Development | Web Development  | Competitive Programming</h4>
   
 I am a 2nd year ECE student from Dayananda Sagar College of Engineering, Bengaluru.
 
