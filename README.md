@@ -32,6 +32,7 @@ I am always looking to be a better version of myself and I strongly believe that
 <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25>
 <img src="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" height=25>
 
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=coder2699&&show_icons=true&theme=radical&line_height=27&v=5" alt="Pranshu's GitHub Stats" />
 
