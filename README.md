@@ -6,8 +6,8 @@
  👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 </h2>
 
-## About 👨‍💻
-
+<!--  ## About 👨‍💻
+-->  
 <a></a>
 <a href="http://linkedin.com/in/pranshu-pandey-ab4543198">
   <img align="center" src="https://user-images.githubusercontent.com/61552810/94657167-ac53b000-031e-11eb-8f71-d34756928a0c.png" width="35px" height="35px"/><p></p><a href="mailto:pranshu0414@gmail.com">
