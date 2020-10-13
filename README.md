@@ -1,12 +1,12 @@
-
- <p align="center">
+ 
+<p align="center">
   <img src="https://user-images.githubusercontent.com/61552810/94653149-be325480-0318-11eb-91c3-d5b772bd1160.gif" width="600px" height="300px"/>
   </p>
-  <h2 align="center">
+ <h2 align="center">
  👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 </h2>
-
-  ## About 👨‍💻
+  
+  ## About Me👨‍💻
   
 <a></a>
 <a href="http://linkedin.com/in/pranshu-pandey-ab4543198">
