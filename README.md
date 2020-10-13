@@ -1,13 +1,13 @@
 
-<!--   <p align="center">
+ <p align="center">
   <img src="https://user-images.githubusercontent.com/61552810/94653149-be325480-0318-11eb-91c3-d5b772bd1160.gif" width="600px" height="300px"/>
-  </p> -->
+  </p>
   <h2 align="center">
  👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 </h2>
 
-<!--  ## About 👨‍💻
--->  
+  ## About 👨‍💻
+  
 <a></a>
 <a href="http://linkedin.com/in/pranshu-pandey-ab4543198">
   <img align="center" src="https://user-images.githubusercontent.com/61552810/94657167-ac53b000-031e-11eb-8f71-d34756928a0c.png" width="35px" height="35px"/><p></p><a href="mailto:pranshu0414@gmail.com">
