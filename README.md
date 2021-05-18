@@ -9,7 +9,7 @@
   ## About Me👨‍💻
   
 <a></a>
-<a href="http://linkedin.com/in/pranshu-pandey-ab4543198">
+<a href="https://www.linkedin.com/in/pandey-pranshu/">
   <img align="center" src="https://user-images.githubusercontent.com/61552810/94657167-ac53b000-031e-11eb-8f71-d34756928a0c.png" width="35px" height="35px"/><p></p><a href="mailto:pranshu0414@gmail.com">
   <img align="center" src="https://user-images.githubusercontent.com/61552810/94657190-b37abe00-031e-11eb-869c-48d933ca954a.png" width="35px" height="35px"/>
   </a>  <p></p>
