@@ -16,14 +16,15 @@
   
   
 <h4>
-Android Development | Web Development  | Competitive Programming</h4>
-  
-I am a 2nd year ECE student from Dayananda Sagar College of Engineering, Bengaluru.
+An aspiring software developer, always looking for challenging roles and opportunities.
+</h4>
+<p>Possess android development skills. I have experience in developing applications using Kotlin and have a project published on the Google Play Store. I also have experience with contributing to open source organizations. Going through the codebase of experienced people and trying to solve bugs help me in improving my coding skills.
+ </p>
+ <p>
 
-I am interested in Android, Web and Software development. I have worked in both frontend and backend development. Other than that I also have a knack for competitive programming and algorithms.
-
-I am always looking to be a better version of myself and I strongly believe that small changes and small steps can create massive impact.
-
+  I have participated in several hackathons. I am allured by the concept of hackathons, where we work on solving a real-world problems and get to learn from people across the globe.
+</p>
+Apart from these I also have a knack for competitive programming. Presently I am a three-star coder on codechef and have five stars in problem-solving on hackerrank. Last but not least I have a decent understanding of Java, OOPs, data structures, and algorithms.
 
 ## Languages
 <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" height=25> 
