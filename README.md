@@ -10,41 +10,45 @@
   
 <a></a>
 <a href="https://www.linkedin.com/in/pandey-pranshu/">
-  <img align="center" src="https://user-images.githubusercontent.com/61552810/94657167-ac53b000-031e-11eb-8f71-d34756928a0c.png" width="35px" height="35px"/><p></p><a href="mailto:pranshu0414@gmail.com">
-  <img align="center" src="https://user-images.githubusercontent.com/61552810/94657190-b37abe00-031e-11eb-869c-48d933ca954a.png" width="35px" height="35px"/>
+  <img align="center" src="https://user-images.githubusercontent.com/61552810/94657167-ac53b000-031e-11eb-8f71-d34756928a0c.png" width="35px" height="35px"/>
+<p></p><a>
   </a>  <p></p>
   
   
 <h4>
-An aspiring software developer, always looking for challenging roles and opportunities.
+A software developer, always looking for challenging roles and opportunities.
 </h4>
-<p>Possess android development skills. I have experience in developing applications using Kotlin and have a project published on the Google Play Store. I also have experience with contributing to open source organizations. Going through the codebase of experienced people and trying to solve bugs help me in improving my coding skills.
+<p>Possess android development skills. I have experience in developing applications using Kotlin and publishing them on the Google Play Store. I have also contributed to some open source organizations.
  </p>
  <p>
 
-  I have participated in several hackathons. I am allured by the concept of hackathons, where we work on solving a real-world problems and get to learn from people across the globe.
-</p>
-Apart from these I also have a knack for competitive programming. Presently I am a three-star coder on codechef and have five stars in problem-solving on hackerrank. Last but not least I have a decent understanding of Java, OOPs, data structures, and algorithms.
+I have participated in several hackathons. I also have a knack for competitive programming. Presently I am a three-star coder on codechef and have five stars in problem-solving on hackerrank. Last but not least I have a decent understanding of Java, OOPs, Data Structures and Algorithms.
 
 ## Languages
+  <a></a>
+<a>
 <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" height=25> 
+<a>
 <img src ="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" height=25> <img src ="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25> 
+<a>
 <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=25> 
+<a>
 <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25>
+<a>
 <img src="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" height=25>
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=coder2699&&show_icons=true&theme=radical&line_height=27&v=5" alt="Pranshu's GitHub Stats" />
-
-<a href="https://github.com/coder2699">
+<!-- <a href="https://github.com/coder2699">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder2699&theme=radical&hide=glsl,python" />
-</a>
+<a> -->
+
+ <img src="https://github-readme-stats.vercel.app/api?username=coder2699&&show_icons=true&theme=radical&line_height=27&v=5" alt="Pranshu's GitHub Stats" />
 
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/coder2699/count.svg" />
+  <img align="center" src="https://profile-counter.glitch.me/coder2699/count.svg" />
  </p>
  
 
