@@ -22,9 +22,6 @@ A software developer, always looking for challenging roles and opportunities.
 
 Skills - Kotlin, Java, Android App development, Data Structures & Algorithm, OOPs, Operating Systems, Computer Networks, DBMS, SQL, Version Control (Git), Firebase.
  </p>
- <p>
-
-I have participated in several hackathons. I also have a knack for competitive programming. Presently I am a three-star coder on codechef and have five stars in problem-solving on hackerrank. Last but not least I have a decent understanding of Java, OOPs, Data Structures and Algorithms.
 
 ## Languages
   <a></a>
