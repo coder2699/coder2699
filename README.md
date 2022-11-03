@@ -18,13 +18,7 @@
 <h4>
 A software developer, always looking for challenging roles and opportunities.
 </h4>
-<p>Specialising in the app development arena. For the last 3 years, I have been contributing to Open-Source organizations and developing android apps using Kotlin and Java programming languages.
-
-I’m hands on in all stages of the software development cycle, from planning and design to testing and deployment.
-
-I love participating in Hackathons. Something that I love about it is the opportunity to work with people from a wide range of disciplines, who are striving towards the same goal.
-
-I am always looking for challenging roles and opportunities to become a better version of myself.
+<p>Specialising in the app development arena. For the last 3 years, I have been contributing to Open-Source organizations and developing android apps using Kotlin and Java programming languages. I’m hands on in all stages of the software development cycle, from planning and design to testing and deployment.I love participating in Hackathons. Something that I love about it is the opportunity to work with people from a wide range of disciplines, who are striving towards the same goal.
 
 Skills - Kotlin, Java, Android App development, Data Structures & Algorithm, OOPs, Operating Systems, Computer Networks, DBMS, SQL, Version Control (Git), Firebase.
  </p>
