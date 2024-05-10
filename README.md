@@ -1,11 +1,3 @@
- 
- <h2 align="center">
- 👋 Hello World !
-</h2>
-<p align="center">
-  <img src="https://github.com/coder2699/coder2699/assets/61552810/f7270775-98de-45c1-adaf-a33628ad345a"/>
- <!-- <img src="https://user-images.githubusercontent.com/61552810/94653149-be325480-0318-11eb-91c3-d5b772bd1160.gif" width="600px" height="300px"/> -->
-  </p>
 
   ## 👨‍💻 About Me
   
@@ -16,9 +8,6 @@
   </a>  <p></p>
   
   
-<h4>
-Software Developer @ JP Morgan Chase & Co, always looking for challenging roles and opportunities!
-</h4>
 <p>I’m hands on in all stages of the software development cycle, from planning and design to testing and deployment.I love participating in Hackathons. Something that I love about it is the opportunity to work with people from a wide range of disciplines, who are striving towards the same goal.
 
 Skills - Kotlin, Java, Spring Boot, Android App development, React, Data Structures & Algorithm, OOPs, Operating Systems, Computer Networks, DBMS, SQL, Version Control (Git), Firebase.
