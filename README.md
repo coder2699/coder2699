@@ -1,13 +1,6 @@
 
   ## 👨‍💻 About Me
-  
-<a></a>
-<a href="https://www.linkedin.com/in/pandey-pranshu/">
-  <img align="center" src="https://user-images.githubusercontent.com/61552810/94657167-ac53b000-031e-11eb-8f71-d34756928a0c.png" width="35px" height="35px"/>
-<p></p><a>
-  </a>  <p></p>
-  
-  
+
 <p>I’m hands on in all stages of the software development cycle, from planning and design to testing and deployment.I love participating in Hackathons. Something that I love about it is the opportunity to work with people from a wide range of disciplines, who are striving towards the same goal.
 
 Skills - Kotlin, Java, Spring Boot, Android App development, React, Data Structures & Algorithm, OOPs, Operating Systems, Computer Networks, DBMS, SQL, Version Control (Git), Firebase.
