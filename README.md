@@ -5,6 +5,10 @@
 
 Skilled in Jenkins for CI/CD integration and Git for version control, I’m always looking for ways to optimize processes and improve code quality. My focus is on delivering scalable, reliable solutions that drive business impact.
 
+Feel free to connect with me on:   
+<a href = "https://www.linkedin.com/in/pandey-pranshu/" ><img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height = 25></a>
+<a href = "https://x.com/pandey__pranshu" ><img src ="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height = 25></a>
+
 ## 💻 Languages, Frameworks & Tools
   <a></a>
 <a>
@@ -37,9 +41,20 @@ Skilled in Jenkins for CI/CD integration and Git for version control, I’m alwa
 ## 🎓 Certifications
   <a></a>
 <a>
+<img src="https://github.com/user-attachments/assets/286103d2-c224-46de-8e47-5d8a206462cd" height=120>
+<a>
 <img src="https://github.com/user-attachments/assets/c23f948c-2ea8-47ce-8cd1-703f35b8117d" height=120>
 <a>
-<img src="https://github.com/user-attachments/assets/286103d2-c224-46de-8e47-5d8a206462cd" height=120>
+<img src="https://github.com/user-attachments/assets/80a40f32-9506-4880-a2fd-8d97be9415f6" height=120>
+<a>
+<img src="https://github.com/user-attachments/assets/64acc075-8877-4e7b-a63e-9d7f80ec8fd9" height=120>
+<!-- <a>
+<img src="" height=120>
+<a>
+<img src="" height=120>
+<a>
+<img src="" height=120>
+-->
 
 
 ## 🔝 Top Contributed Repo
