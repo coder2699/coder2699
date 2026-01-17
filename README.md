@@ -1,13 +1,35 @@
 
+
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/b9b7305e-b232-429c-96c8-e46d98e7bdae" />
+
   ## 👨‍💻 About Me
 
-<p>I’m a backend-focused Software Developer specializing in Java, Spring Boot, and RESTful APIs. I’m hands on in all stages of the software development cycle, from planning and design to testing and deployment, and am proficient in Agile methodologies, ensuring efficient, high-quality delivery in fast-paced environments.
+<p>Some people see code as logic—I see it as the foundation of experiences millions rely on every day.
 
-Skilled in Jenkins for CI/CD integration and Git for version control, I’m always looking for ways to optimize processes and improve code quality. My focus is on delivering scalable, reliable solutions that drive business impact.
+Hey!👋 I’m a Software Engineer I at JPMorgan Chase & Co., where I primarily work with Java, Spring Boot, and backend development to create solutions that drive efficiency, performance, and real-world impact. 
+
+I’m always up for new challenges—whether it’s optimizing existing services, designing new APIs, or diving into unfamiliar tech to deliver better results. What drives me is simple: curiosity 🔍 and the drive to grow through every challenge I take on⚡️.
+
+A few things I bring to the table:
+🚀 Strong foundation in Java + Spring Boot
+👨‍💻Experience building and maintaining scalable backend services
+🌱 A growth-first mindset and willingness to tackle complex problems head-on
+
+If you’re looking for someone who loves solving problems and building efficient backend solutions, let’s connect.
+
+Key Skills:
+<ul>
+<li> Languages & Core: Java, Object-Oriented Programming (OOP), SOLID Principles, Design Patterns</li> 
+<li> Frameworks & APIs: Spring, Spring Boot, Spring AI, RESTful APIs</li> 
+<li> Data & Persistence: SQL, JDBC, JPA/Hibernate, NoSQL, MongoDB</li> 
+<li> Testing & DevOps: JUnit, Mockito, Test-Driven Development (TDD), Git, Jenkins (CI/CD)</li> 
+<li> AI, Cloud & Practices: Generative AI, Large Language Models (LLMs), Prompt Engineering, AWS, Splunk, Agile Methodologies, Jira</li> 
+</ul>
+</p>
 
 Feel free to connect with me on:   
-<a href = "https://www.linkedin.com/in/pandey-pranshu/" ><img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height = 25></a>
-<a href = "https://x.com/pandey__pranshu" ><img src ="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height = 25></a>
+<a href = "https://www.linkedin.com/in/pandey-pranshu/" ><img src ="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height = 50></a>
+<a href = "https://x.com/pandey__pranshu" ><img src ="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height = 50></a>
 
 ## 💻 Languages, Frameworks & Tools
   <a></a>
@@ -56,22 +78,15 @@ Feel free to connect with me on:
 <img src="" height=120>
 -->
 
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=coder2699&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=coder2699&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img align="center" src="https://profile-counter.glitch.me/coder2699/count.svg" />
  </p>
- 
+  -->
 
  <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
 
