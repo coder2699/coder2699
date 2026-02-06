@@ -6,7 +6,7 @@
 
 <p>Some people see code as logic—I see it as the foundation of experiences millions rely on every day.
 
-Hey!👋 I’m a Software Engineer I at JPMorgan Chase & Co., where I primarily work with Java, Spring Boot, and backend development to create solutions that drive efficiency, performance, and real-world impact. 
+Hey!👋 I’m a Software Engineer II at JPMorgan Chase & Co., where I primarily work with Java, Spring Boot, and backend development to create solutions that drive efficiency, performance, and real-world impact. 
 
 I’m always up for new challenges—whether it’s optimizing existing services, designing new APIs, or diving into unfamiliar tech to deliver better results. What drives me is simple: curiosity 🔍 and the drive to grow through every challenge I take on⚡️.
 
